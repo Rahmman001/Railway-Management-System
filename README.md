@@ -82,27 +82,4 @@ railway-management-system/
 │   └── Other.py                   # Common utilities
 ├── Main.py                        # Main application file
 └── requirements.txt               # Python dependencies
-Troubleshooting
-MySQL Connection Issues: Verify your MySQL server is running and credentials are correct
 
-Missing Dependencies: Run pip install -r requirements.txt again
-
-CSV Import Problems: Check file paths in the code match your system
-
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-MIT
-
-Copy
-
-This README:
-1. Clearly explains what the project does
-2. Provides simple installation instructions
-3. Documents all features
-4. Includes troubleshooting tips
-5. Has a clean file structure overview
-6. Uses proper Markdown formatting for readability
-
-You can customize the license, contributing guidelines, and other sections as needed for your specific project.
